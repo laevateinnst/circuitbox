@@ -29,12 +29,19 @@ CircuitBox is a Flutter app built for electronics enthusiasts who need a reliabl
 </div>
 
 ---
+## App Demo
+
+<div style="text-align: center;">
+  <a href="https://youtube.com/shorts/UsvkAOrrt8M?feature=share" target="_blank">
+    <img src="assets/splash-screen.jpg" alt="Video Demo" width="300">
+  </a>
+</div>
 
 ## Figma Concept Designs
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="assets/figma/figma_overall_concept.png" alt="Figma Overall Concept" width="150">
-  <img src="assets/figma/figma_wireframe.png" alt="Wireframe" width="150">
+  <img src="assets/figma-design.png" alt="Figma Overall Concept">
+  <img src="assets/figma-wireframe.png" alt="Wireframe">
 </div>
 
 ---
@@ -42,7 +49,7 @@ CircuitBox is a Flutter app built for electronics enthusiasts who need a reliabl
 ## Concept Map
 
 <div style="text-align: center;">
-  <img src="assets/concept_map.png" alt="Concept Map" width="300">
+  <img src="assets/concept-map.png" alt="Concept Map">
 </div>
 
 ---
