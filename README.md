@@ -25,7 +25,7 @@ CircuitBox is a Flutter app built for electronics enthusiasts who need a reliabl
   <img src="assets/add-item.jpg" alt="Add Item Overlay" width="300">
   <img src="assets/search-item.jpg" alt="Search Item Overlay" width="300">
   <img src="assets/take-item.jpg" alt="Take Item Overlay" width="300">
-  <img src="assets/filters.jpg" alt="Filters" width="150">
+  <img src="assets/filters.jpg" alt="Filters" width="300">
 </div>
 
 ---
