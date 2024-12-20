@@ -1,0 +1,1 @@
+ C:\\Users\\laevateinn\\StudioProjects\\circuitbox\\.dart_tool\\flutter_build\\8cf00e3a40d5baaab3bebac98456ea8a\\native_assets.yaml: 

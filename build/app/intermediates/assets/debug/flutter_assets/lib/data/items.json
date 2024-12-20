@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Resistor 10k",
+    "category": "Passive",
+    "tags": ["Electronic", "Resistor"],
+    "quantity": 100
+  },
+  {
+    "name": "Capacitor",
+    "category": "Passive",
+    "tags": ["Electronic", "Capacitor"],
+    "quantity": 200
+  },
+  {
+    "name": "Transistor",
+    "category": "Active",
+    "tags": ["Electronic", "Transistor"],
+    "quantity": 1000
+  },
+  {
+    "name": "Diode",
+    "category": "Passive",
+    "tags": ["Electronic", "Diode"],
+    "quantity": 50
+  }
+]
